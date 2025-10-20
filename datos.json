@@ -2,37 +2,37 @@
   {
     "title": "MediGO",
     "category": "UX",
-    "photo": "https://raw.githubusercontent.com/jasmcastillo-dev/Evaluacion-2/main/Medigo.jpg",
+    "photo": "https://raw.githubusercontent.com/jasmcastillo-dev/Clase-10/main/Medigo.png",
     "description": " Proyecto realizado en el curso ´Usabilidad y experiencia de usuario  donde a través de un proceso de diseño centrado en el usuario, definimos el funcionamiento y diseño de una plataforma digital orientada a mejorar el diagnóstico de enfermedades genéticas con IA."
   },
   {
     "title": "Páginas amarillas",
     "category": "UX",
-    "photo": "https://raw.githubusercontent.com/jasmcastillo-dev/Evaluacion-2/main/P.amarillas.jpg",
+    "photo": "https://raw.githubusercontent.com/jasmcastillo-dev/Clase-10/main/Pamarillas.png",
     "description": "El proyecto páginas amarillas busca digitalizar el proceso de búsqueda de prestadores de servicios domésticos en una sola plataforma con una base de datos centralizada y un sistema de puntuación para generar confianza en los usuarios."
   },
   {
     "title": "Rojo Carmín",
     "category": "Editorial",
-    "photo": "https://raw.githubusercontent.com/jasmcastillo-dev/Evaluacion-2/main/Rojocarmin.jpg",
+    "photo": "https://raw.githubusercontent.com/jasmcastillo-dev/Clase-10/main/Rcarmin.png",
     "description": "Proyecto escrito, diseñado y encuadernado para el ramo ´Diseño editorial´. El libro explora la historia, impacto del labial rojo desde las antiguas civilizaciones hasta hoy."
   },
   {
     "title": "Guau",
     "category": "Identidad",
-    "photo": "https://raw.githubusercontent.com/jasmcastillo-dev/Evaluacion-2/main/Guau.jpg",
+    "photo": "https://raw.githubusercontent.com/jasmcastillo-dev/Clase-10/main/Guau.png",
     "description": " Proyecto realizado en segundo año de carerra para el ramo ´Referentes y tendencias del diseño gráfico"
   },
   {
     "title": "Cowzy",
     "category": "Identidad",
-    "photo": "https://raw.githubusercontent.com/jasmcastillo-dev/Evaluacion-2/main/Cowzy.jpg",
+    "photo": "https://raw.githubusercontent.com/jasmcastillo-dev/Clase-10/main/Cowzy.png",
     "description": " otro trabajo muy especial que realicé en otro curso"
   },
   {
     "title": "Vinilo Los Tres",
     "category": "Otro",
-    "photo": "https://raw.githubusercontent.com/jasmcastillo-dev/Evaluacion-2/main/Vinilolostres.jpg",
+    "photo": "https://raw.githubusercontent.com/jasmcastillo-dev/Clase-10/main/Vlostres.png",
     "description": "Un proyecto distinto con un resultado increible"
   }
 ]
